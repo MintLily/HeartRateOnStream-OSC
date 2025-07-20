@@ -4,6 +4,10 @@ HeartRateOnStream to VRChat OSC
 ## What is this?
 This app allows you to get realtime heartrate data from a compatible Wear OS device (Such as a Pixel Watch) and send this data to VRChat via OSC.
 
+## Coming soon
+- Integration with OVR Toolkit, display heartrate data on your wrist.
+- New UI.
+
 ## Requirements
 - An Android device capable of installing [HeartRateOnStream](https://play.google.com/store/apps/details?id=com.pezcraft.myapplication).
 - A Wear OS device with a heartrate monitor capable of installing [HeartRateOnStream](https://play.google.com/store/apps/details?id=com.pezcraft.myapplication)
