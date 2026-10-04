@@ -3,7 +3,7 @@ HeartRateOnStream to VRChat OSC
 
 ## What is this?
 This app allows you to get realtime heartrate data from a compatible Wear OS device and send this data to VRChat via OSC.<br>
-This version was rewitten for DotNet 10 to house a single EXE and update dependences.
+This version was rewitten for DotNet 10 to house a single EXE and update dependencies.
 
 ## Requirements
 - Mobile
